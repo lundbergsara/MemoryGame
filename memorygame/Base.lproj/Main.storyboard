@@ -100,6 +100,12 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="card1" destination="xKz-y4-l6W" id="AtZ-Ry-0BW"/>
+                        <outlet property="card2" destination="jDl-TZ-VRL" id="Sut-gQ-XXl"/>
+                        <outlet property="card3" destination="tvs-ft-sai" id="vZ8-Jj-jgq"/>
+                        <outlet property="card4" destination="Hdf-cU-UrJ" id="7ec-md-Vcg"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
